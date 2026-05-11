@@ -1,0 +1,26 @@
+[2026-05-11 03:38:32] ============================================
+[2026-05-11 03:38:32] Iniciando script de automatización del sistema
+[2026-05-11 03:38:32] Directorio base: /root/devops-TP01
+[2026-05-11 03:38:32] ============================================
+[2026-05-11 03:38:32] === TAREA 1: Iniciando backup ===
+[2026-05-11 03:38:32] Backup completado en: /root/devops-TP01/backups/backup_2026-05-11_03-38-32 (0 archivos)
+[2026-05-11 03:38:32] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-11 03:38:32] Limpieza completa. Archivos eliminados: 0
+[2026-05-11 03:38:32] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-11 03:38:32] Reporte guardado en: /root/devops-TP01/logs/reporte_2026-05-11_03-38-32.txt
+[2026-05-11 03:38:32] ============================================
+[2026-05-11 03:38:32] Todas las tareas completadas exitosamente
+[2026-05-11 03:38:32] ============================================
+[2026-05-11 03:40:43] ============================================
+[2026-05-11 03:40:43] Iniciando script de automatización del sistema
+[2026-05-11 03:40:43] Directorio base: /root/devops-TP01
+[2026-05-11 03:40:43] ============================================
+[2026-05-11 03:40:43] === TAREA 1: Iniciando backup ===
+[2026-05-11 03:40:43] Backup completado en: /root/devops-TP01/backups/backup_2026-05-11_03-40-43 (0 archivos)
+[2026-05-11 03:40:43] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-11 03:40:43] Limpieza completa. Archivos eliminados: 0
+[2026-05-11 03:40:43] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-11 03:40:44] Reporte guardado en: /root/devops-TP01/logs/reporte_2026-05-11_03-40-43.txt
+[2026-05-11 03:40:44] ============================================
+[2026-05-11 03:40:44] Todas las tareas completadas exitosamente
+[2026-05-11 03:40:44] ============================================

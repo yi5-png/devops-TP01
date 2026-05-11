@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-11_03-40-43
+===============================
+
+--- CPU ---
+Uso CPU: 9.1%
+
+--- MEMORIA ---
+Total: 1.9Gi | Usado: 469Mi | Libre: 718Mi
+
+--- DISCO ---
+Total: 19G | Usado: 5.4G | Libre: 13G | Uso: 30%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/usr/libexec/fwupd/fwupd CPU: 1.0%
+/bin/runtime-info-service CPU: 0.1%
+/sbin/init           CPU: 0.1%
+/opt/theia/node      CPU: 0.0%
+/opt/theia/node      CPU: 0.0%
+
+--- UPTIME ---
+ 03:40:44 up 39 min,  0 user,  load average: 0.00, 0.00, 0.00

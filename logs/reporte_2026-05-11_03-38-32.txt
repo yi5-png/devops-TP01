@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-11_03-38-32
+===============================
+
+--- CPU ---
+Uso CPU: 0.0%
+
+--- MEMORIA ---
+Total: 1.9Gi | Usado: 415Mi | Libre: 800Mi
+
+--- DISCO ---
+Total: 19G | Usado: 5.4G | Libre: 13G | Uso: 30%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/bin/runtime-info-service CPU: 0.1%
+/sbin/init           CPU: 0.1%
+/opt/theia/node      CPU: 0.1%
+/opt/theia/node      CPU: 0.0%
+/usr/bin/containerd  CPU: 0.0%
+
+--- UPTIME ---
+ 03:38:32 up 37 min,  0 user,  load average: 0.00, 0.00, 0.00
